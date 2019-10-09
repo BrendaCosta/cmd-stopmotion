@@ -6,7 +6,9 @@ FRAMEWORK DE ANIMAÇÃO STOPMOTION MULTIPLATAFORMA
 # INSTALAÇÃO
 
 ```
-javac CABRA.java
-java CABRA
+javac FEMTEC.java
+java FEMTEC
 ```
+
+
 

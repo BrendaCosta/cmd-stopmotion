@@ -1,6 +1,6 @@
 public class FEMTEC {
     
-private static final String signature = "\nThoughtWorks\tSoftwell\tCodar\tVinta";
+private static final String signature = "\nCODAR | SOFTWELL | THOUGHTWORKS | VINTA";
 private static int companySize = 1;
 private static String espaco = "";
 
@@ -88,8 +88,8 @@ private static String company[] = new String[]{
              "Que vai rolar em Salvador",
              "Que vai rolar em Salvador",
              "Que vai rolar em Salvador",
-             "DIA \"26.10\"",
-             "DIA \"26.10\"",
+             "DIA \"26.10.19\"",
+             "DIA \"26.10.19\"",
              
          } );
        
@@ -199,7 +199,7 @@ private static String company[] = new String[]{
         );
 
         walkLeft(1,new String[]{
-                "PROGRAMADA:",
+                "PROGRAMADA",
                               
             }
         );
